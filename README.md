@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> Sobre</h2>
-<p>Projeto que fiz baseado mp curso de lógica de programação da alura</p>
+<p>Projeto que fiz baseado no curso de lógica de programação da alura</p>
 
 <h2><strong>Tecnologias</strong></h2>
 
